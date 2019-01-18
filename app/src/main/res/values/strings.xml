@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Tab Json Project</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Series</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About the developer</string>
+    <string name="action_refresh">Re-download JSON</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
